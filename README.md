@@ -66,4 +66,3 @@ NdLinear maintains performance parity with baseline linear layers while enabling
 
 - NdLinear works as a drop-in replacement in real-time RL tasks without loss in reward.
 - Inference time is slightly higher but within acceptable bounds for many edge applications.
-- This study demonstrates a practical and reproducible benchmark pipeline, aligning with Ensemble's mission of building applied ML infrastructure.
